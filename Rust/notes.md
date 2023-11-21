@@ -1,0 +1,1 @@
+This folder contains the projects of the book "The Rust Programming Language"
